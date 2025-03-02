@@ -1,6 +1,6 @@
 <h1 align="center"><u>Mask URL Tool</u></h1>
 
-![Mask URL Tool](https://raw.githubusercontent.com/Mouse99-tech/Photo/refs/heads/main/)
+![Mask URL Tool](https://raw.githubusercontent.com/Mouse99-tech/Photo/refs/heads/main/Screenshot_2025_0302_084555.jpg)
 
 ## [TERMUX] Install All Commands  
 
@@ -48,7 +48,7 @@ Masked URL: https://yourdomain.com-free-video@https://example.com/special-offer
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@appshaktibangla">
+<a href="https://www.youtube.com/channel/UC8HzoXx8S4IVGRh62zb-8Ow">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>  
 
