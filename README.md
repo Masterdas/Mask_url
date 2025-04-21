@@ -24,7 +24,7 @@ url
 
 ## Termux Full Install and Setup  
 ```
-pkg install -y git && git clone https://github.com/Masterdas/Mask_url.git && mv Mask_url/url $PREFIX/bin/ && chmod +x $PREFIX/bin/url && rm -rf Mask_url
+pkg i -y git && git clone https://github.com/Masterdas/Mask_url && install -m700 Mask_url/url $PREFIX/bin && rm -rf Mask_url
 ```
 
 ## How to Use  
